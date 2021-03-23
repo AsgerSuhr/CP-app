@@ -2,6 +2,8 @@
 Small example of a secure electron app
 
 # Install
+please have node.js installed before doing the following steps
+https://nodejs.org/en/
 
 First download repository:
 ```
